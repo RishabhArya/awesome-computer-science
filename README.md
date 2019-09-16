@@ -113,7 +113,7 @@ Feel free to make a Pull Request if want to contribute.
 
 ### ANDROID
 - [Android Developer(Official Guide)](https://developer.android.com/guide)
-
+- [CodePath Android Cliffnotes(Best-Up-to-Date-Guide)](https://github.com/codepath/android_guides/wiki)
 ## Competitive Coding
 
 ### Platforms
